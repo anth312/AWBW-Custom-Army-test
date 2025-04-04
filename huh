@@ -1,0 +1,7 @@
+echo "# AWBW-susp-GE" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anth312/AWBW-susp-GE.git
+git push -u origin main
